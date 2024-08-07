@@ -99,7 +99,7 @@ Pengaturan Access Control List (ACL):
     - Deny access dari VLAN lainnya.
 
   - ACL VLAN 10 dan VLAN 20 (Front Office dan Manager):
-    - Allow access hanya ke VLAN 20 (Server Aplikasi).
+    - Allow access hanya ke VLAN 70 (Server Aplikasi).
    
   - ACL VLAN 80 (IT Networking):
     - Allow access semua VLAN.
